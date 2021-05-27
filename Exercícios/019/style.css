@@ -1,0 +1,41 @@
+@charset "UFT-8";
+
+/*
+    em HTMl id = # em CSS
+    em HTML class = . em CSS
+*/
+
+body {
+    background-color: #ffc0cb;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    color: #705459;
+}
+
+h1#principal {
+    color: white;
+    text-align: center;
+    background-color: #D6A1AA;
+}
+
+h2 {
+    color:#D6A1AA;
+}
+
+.basico {
+    color: blue;
+}
+
+.intermediario {
+    color: yellow;
+}
+
+.avançado {
+    color: red;
+}
+
+.destaque {
+    background-color: rgb(235, 232, 232);
+}
